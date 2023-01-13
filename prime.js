@@ -5,7 +5,7 @@ for(let i=2;i<Math.sqrt(num);i++){
 	}
 }
 if(count>0){
-	console.log("Prime NUmber");   //It's a mistake correct it.
+	console.log("Not A Prime Number");   //corrected
 }else{
-	console.log("Not A Prime Number");    //It's a mistake correct it.
+	console.log("Prime NUmber");    //corrected
 }
